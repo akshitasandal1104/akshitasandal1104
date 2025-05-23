@@ -9,8 +9,8 @@
   
 - 👯 I’m looking to collaborate on **Open-source full-stack applications**
   
-- 👨‍💻 My portfolio: [akshitasandal.dev](https://your-portfolio-link.com) *(replace with real link)*
-  
+<!--- 👨‍💻 My portfolio: [akshitasandal.dev](https://your-portfolio-link.com) *(replace with real link)*
+  -->
 - 💬 Ask me about **Django, Ruby on Rails, PostgreSQL, Tailwind, React, Ember, or anything web**
   
 - 📫 How to reach me: **akshitasandal1104@gmail.com**
