@@ -4,21 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Full Stack Projects using Rails, Php/Laravel, Django, Rails, Angular, and React**
-
 - 🌱 I’m currently learning **Advanced Django, REST APIs, Docker, and System Design**
-
 - 👯 I’m looking to collaborate on **Open-source full-stack applications**
-
 - 👨‍💻 My portfolio: [akshitasandal.dev](https://your-portfolio-link.com) *(replace with real link)*
-
 - 💬 Ask me about **Django, Ruby on Rails, PostgreSQL, Tailwind, React, Ember, or anything web**
-
 - 📫 How to reach me: **akshitasandal1104@gmail.com**
-
 - 🧑‍💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~019335d04c1b303788)
-
 - ⚡ Fun fact: I design in Figma/AdobeXd/Photoshop/Canva before I code it ✨
-
 
 ## 🛠️ Tech Stack
 
